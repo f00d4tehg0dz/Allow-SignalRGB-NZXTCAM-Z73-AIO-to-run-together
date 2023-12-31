@@ -2,6 +2,11 @@
  Allow for SignalRGB to control your LED lights on your NZXT AIO and NZXT CAM to control your Cooling settings
  Run NZXT CAM software alongside SignalRGB without conflicts.
 
+
+## Demo
+- ![](https://github.com/f00d4tehg0dz/Allow-SignalRGB-NZXTCAM-Z73-AIO-to-run-together/screenshots/screencap.gif)
+- ![](https://github.com/f00d4tehg0dz/Allow-SignalRGB-NZXTCAM-Z73-AIO-to-run-together/screenshots/videocap.mp4)
+
 ### Prerequisites
 
 Before you begin setting this up
@@ -46,9 +51,6 @@ If you have a different NZXT AIO than the Z73 Kraken. There are several other `.
   ```bash
     export function SupportsFanControl(){ return false;}
   ```
-
-## Demo
-- **TODO**
 
 ## FAQ
 
