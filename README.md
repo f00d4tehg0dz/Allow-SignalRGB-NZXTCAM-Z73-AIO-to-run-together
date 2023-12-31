@@ -5,7 +5,7 @@
 
 ## Demo
 - ![](https://github.com/f00d4tehg0dz/Allow-SignalRGB-NZXTCAM-Z73-AIO-to-run-together/blob/main/screenshots/signalrgb.gif)
-- ![](https://github.com/f00d4tehg0dz/Allow-SignalRGB-NZXTCAM-Z73-AIO-to-run-together/blob/main/screenshots/videocap.mp4)
+- ![](https://github.com/f00d4tehg0dz/Allow-SignalRGB-NZXTCAM-Z73-AIO-to-run-together/blob/main/screenshots/videocap.gif)
 
 ### Prerequisites
 
